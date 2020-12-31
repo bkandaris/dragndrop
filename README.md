@@ -1,2 +1,1 @@
-# dragndrop
-dragndrop
+# drag'n'drop tutorial
